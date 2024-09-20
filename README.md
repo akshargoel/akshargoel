@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Akshar Goel</h1>
+<h3 align="center">A passionate Software Developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshargoel" alt="akshargoel" /> </p>
+
+- 🌱 I’m currently learning **Spring Boot, React.js**
+
+- 💬 Ask me about **Boot, react , Restapi**
+
+- 📫 How to reach me **goelakshar1212@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshargoel/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/akshargoel17520) 
